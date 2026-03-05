@@ -1,0 +1,1 @@
+print((input("enter exam mark1:") + input("enter exam mark2:"))/4 + input("enter sports mark:")/5 + ((input("enter extra curricular mark1:") + input("enter extra curricular mark2:") + input("enter extra curricular mark3:"))/3)*0.3)
